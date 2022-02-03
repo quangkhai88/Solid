@@ -8,5 +8,5 @@ For each example, we have some codes which break the rule (in package Before), a
 * Open-close  [a link](https://github.com/quangkhai88/Solid/tree/master/src/main/java/solid/openclose)  
 * Liskov      [a link](https://github.com/quangkhai88/Solid/tree/master/src/main/java/solid/liskov)  
 * Interface segregation  [a link](https://github.com/quangkhai88/Solid/tree/master/src/main/java/solid/is)  
-* Dependency inversion
+* Dependency inversion   [a link](https://github.com/quangkhai88/Solid/tree/master/src/main/java/solid/di)   
 
