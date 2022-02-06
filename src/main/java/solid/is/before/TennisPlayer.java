@@ -1,7 +1,7 @@
 package solid.is.before;
 
 /*
- * “do not force any client to implement an interface which is irrelevant to them“.
+ * do not force any client to implement an interface which is irrelevant to themï¿½.
  * We should separate a common interface to specific interfaces
  */
 public class TennisPlayer implements Player{
