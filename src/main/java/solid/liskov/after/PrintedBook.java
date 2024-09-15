@@ -1,6 +1,6 @@
 package solid.liskov.after;
 
-public interface PrinteBook {
+public interface PrintedBook {
 	
 	String getMaterial();
 

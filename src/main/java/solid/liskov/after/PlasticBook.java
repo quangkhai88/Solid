@@ -1,6 +1,6 @@
 package solid.liskov.after;
 
-public class PlasticBook implements Book, PrinteBook{
+public class PlasticBook implements Book, PrintedBook {
 
 	@Override
 	public String getName() {
